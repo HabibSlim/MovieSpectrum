@@ -37,7 +37,7 @@ Princess Mononoke
 Porco Rosso
 
 <h1 align="center">
-    <img src="porco_rosso.png">
+    <img src="examples/porco_rosso.png">
 </h1>
 
 Have fun !
