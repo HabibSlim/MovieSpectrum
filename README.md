@@ -26,7 +26,7 @@ A window will popup and the spectrum will start building. When you are finished,
 * <a href="https://github.com/opencv/opencv">OpenCV</a>
 
 # Some examples
-Here are some cool examples built using the script.
+Here are some cool examples built using the script, from some famous Ghibli movies.
 
 Princess Mononoke
 

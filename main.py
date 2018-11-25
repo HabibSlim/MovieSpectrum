@@ -7,7 +7,16 @@ import sys
 
 from framemath import *
 
-def compute_average(frame):
+def compute_average(frame):    
+    """
+    Returns the average RGB color value from a frame using the configured method (params.py)
+
+    Args:
+        frame: openCV image object
+        
+    Returns:
+        The average RGB color value from a given frame, computed using the configured method
+    """
     avg_functions = [dumb_average, squared_average, dominant_color]
     avg_color = avg_functions[params.AVG_METHOD](frame)
 
