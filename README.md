@@ -11,13 +11,13 @@
 Define the script parameters in params.py.
 You will have to adjust IMAGE_WIDTH, IMAGE_HEIGHT for the output picture, and SAMPLE_NUMBER to define the number of frames to be used to build the spectrum.
 
-Then, just call spectrum.py in a terminal and supply a video path, like this :
+Then, from a terminal supply a video path :
 
     spectrum.py Porco\ Rosso.avi
 
 # Averaging methods
 You can also play with average methods, square average seems to give the best results.
-However, do NOT try to use K-Mean clustering unless you are working with a very small SAMPLE_NUMBER, it will take way too much time for not that good of a result.
+K-Mean seems unless you are working with a very small SAMPLE_NUMBER, as it will take way too much time for not that good of a result.
 
 A window will popup and the spectrum will start building. When you are finished, press Q to exit.
 
@@ -39,5 +39,3 @@ Porco Rosso
 <h1 align="center">
     <img src="examples/porco_rosso.png">
 </h1>
-
-Have fun !
