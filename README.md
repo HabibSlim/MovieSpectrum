@@ -17,7 +17,7 @@ Then, from a terminal supply a video path :
 
 # Averaging methods
 You can also play with average methods, square average seems to give the best results.
-K-Mean seems unless you are working with a very small SAMPLE_NUMBER, as it will take way too much time for not that good of a result.
+K-Mean seems rather unpratical unless you are working with a very small SAMPLE_NUMBER.
 
 A window will popup and the spectrum will start building. When you are finished, press Q to exit.
 
