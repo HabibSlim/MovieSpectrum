@@ -2,9 +2,7 @@
     MovieSpectrum
 </h1>
 <p align="center">
-<sup>
 <b>MovieSpectrum is a (very) simple program that you can use to extract the color spectrum of a film or a video.</b>
-</sup>
 </p>
 
 # How to use it?
