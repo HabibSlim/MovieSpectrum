@@ -2,7 +2,7 @@
     MovieSpectrum
 </h1>
 <p align="center">
-<b>MovieSpectrum is a (very) simple program that you can use to extract the color spectrum of a film or a video</b>
+<b>MovieSpectrum is a (very) simple program that you can use to extract the color sequential timeline of a film or a video</b>
 </p>
 
 # How to use it?
