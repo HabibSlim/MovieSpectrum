@@ -16,5 +16,5 @@ STRIP_NUMBER = 5
 # Method used to compute color averages
 # 0 => Dumb average
 # 1 => Squared average
-# 2 => K-Means clustering (greedy)
+# 2 => K-Means clustering (costly)
 AVG_METHOD = 1
